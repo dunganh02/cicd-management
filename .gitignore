@@ -1,0 +1,13 @@
+*.DS_Store
+.idea
+*.swp
+*~
+/.gradle/
+/bin/
+**/target/**
+.classpath
+.project
+.settings/**
+*.jar
+*.iml
+*.class
